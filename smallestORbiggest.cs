@@ -7,8 +7,8 @@ class HelloWorld {
   static void Main() {
     int[] comparenums={9,4,2,6,9,7};
     
-    Console.WriteLine("Smallest number: "+fSbNum(comparenums,true));
-    Console.WriteLine("Biggest number: "+fSbNum(comparenums,false));
+    Console.WriteLine("Smallest number: "+fSb_Num(comparenums,true));
+    Console.WriteLine("Biggest number: "+fSb_Num(comparenums,false));
     
   }
   
